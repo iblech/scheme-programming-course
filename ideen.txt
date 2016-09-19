@@ -1,0 +1,12 @@
+=== Allgemein
+
+* Sprachspezifikation ausdrucken und den Teilnehmenden mitgeben
+* DrRacket als IDE verwenden
+* Laufwerk, auf das wir im Kurs gemeinsam zugreifen können
+
+
+=== Inhaltlich
+
+* SICP
+* Mögliches Beispiel: Symbolisches Differenzieren
+* Mögliche Programmierprojekte: Automatisches Differenzieren
